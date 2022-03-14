@@ -1,6 +1,4 @@
-
-
-#Usage
+# Usage
 
 make
 ./disastrOS_test <arg>
