@@ -1,7 +1,9 @@
 # Usage
 
+'''
 make
 ./disastrOS_test <arg>
+'''
 
 <arg> can be either nothing, it will run a default test,
 or some integer, it will run the related function.
